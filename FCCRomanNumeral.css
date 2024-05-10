@@ -1,0 +1,39 @@
+button{
+    background-color: blue;
+    color: white;
+    width: 170px;
+    height: 25px;
+    border-width: 2px;
+    border-color: #FfFfFf;
+  }
+  
+  input{
+    border-width: 2px;
+    border-color: #AAAAAA;
+    height: 30px;
+    margin-top: 20px
+  }
+  
+  #space-between{
+    margin: 10px
+  }
+  
+  body{
+    background-color: #212151;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #page-title{
+    color: blue;
+    font-size: 25px;
+    font-family: fantasy;
+    
+  }
+  
+  #output{
+    margin-top: 10px;
+    background-color: purple
+  }
